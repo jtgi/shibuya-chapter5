@@ -8,6 +8,7 @@ A farcaster exclusive onframe game to to celebrate the launch of White Rabbit, C
 - Made by [@jtgi](https://warpcast.com/jtgi) and [@pplpleasr](https:/warpcast.com/pplpleasr)
 
 ## Video Walkthrough
+![Video walk](https://share.cleanshot.com/45b0GFVm)
 [Quick overview](https://www.youtube.com/watch?v=glUt4R2ME9g) of key parts of this codebase
 
 ## Summary
