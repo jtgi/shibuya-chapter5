@@ -8,10 +8,11 @@ A farcaster exclusive onframe game to to celebrate the launch of White Rabbit, C
 - Made by [@jtgi](https://warpcast.com/jtgi) and [@pplpleasr](https:/warpcast.com/pplpleasr)
 
 ## Video Walkthrough
-![Video walk](https://share.cleanshot.com/45b0GFVm)
+![Video Walkthrough](https://github.com/jtgi/shibuya-chapter5/assets/2442166/a08f45ae-ef71-444c-87c3-dd8e11c0c834)
 [Quick overview](https://www.youtube.com/watch?v=glUt4R2ME9g) of key parts of this codebase
 
 ## Summary
+
 
 Chapter 5 is an onframe game, the rules are as follows:
 
