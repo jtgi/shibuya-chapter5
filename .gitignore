@@ -1,0 +1,14 @@
+node_modules
+
+/prisma/*.db
+/.cache
+/build
+/public/build
+.env
+.DS_Store
+docs.txt
+
+# /public/global-progress.jpg
+/public/generated
+/public/seed
+/public/global
