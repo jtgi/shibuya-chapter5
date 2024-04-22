@@ -7,6 +7,9 @@ A farcaster exclusive onframe game to to celebrate the launch of White Rabbit, C
 - Launched 04/18
 - Made by [@jtgi](https://warpcast.com/jtgi) and [@pplpleasr](https:/warpcast.com/pplpleasr)
 
+## Video Walkthrough
+(Quick overview)[https://www.youtube.com/watch?v=glUt4R2ME9g] of key parts of this codebase
+
 ## Summary
 
 Chapter 5 is an onframe game, the rules are as follows:
