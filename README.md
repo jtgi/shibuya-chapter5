@@ -2,7 +2,7 @@
 
 ![Shibuya Puzzle](https://wowow.shibuya.xyz/images/progress.jpg)
 
-An farcaster exclusive onframe game to uncover 8/12 words in a seed phrase.
+A farcaster exclusive onframe game to to celebrate the launch of White Rabbit, Chapter 5 by [shibuya.xyz](https://shibuya.xyz).
 
 - Launched 04/18
 - Made by [@jtgi](https://warpcast.com/jtgi) and [@pppleasr](https:/warpcast.com/pplpleasr)
