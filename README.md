@@ -3,7 +3,9 @@
 ![Shibuya Puzzle](https://wowow.shibuya.xyz/images/progress.jpg)
 
 An farcaster exclusive onframe game to uncover 8/12 words in a seed phrase.
-Launched 04/18, Made by [@jtgi](https://warpcast.com/jtgi) and [@pppleasr](https:/warpcast.com/pplpleasr)
+
+- Launched 04/18
+- Made by [@jtgi](https://warpcast.com/jtgi) and [@pppleasr](https:/warpcast.com/pplpleasr)
 
 ## Summary
 
@@ -40,8 +42,8 @@ This is easy with neynar's apis. When you validate a frame message, you can incl
 
 ## Stack
 
-- Framework: [remix.run](https://remix.run) (not really necessary tbh but faster for me)
-- Farcaster Data: [neynar](https://neynar.com)
-- NFT Data: [simplehash](https://simplehash.com)
-- Token Contracts: [Manifold](https://studio.manifold.xyz)
-# shibuya-chapter5
+- [remix.run](https://remix.run) – Framework. Not necessary here tbh, but I'm fast with it. Remix is a nice choice if you might need a web app with admin screen and don't want to fuss with builds. Since this ended up being pure frames, frames.js or frog.fm would have been more appropriate.
+- [neynar](https://neynar.com) - Farcaster Data. fully typed sdks and rest apis for most things you need. Used here to validate frame payloads and get farcaster user information.
+- [simplehash](https://simplehash.com) - Token Data. Nice nft data apis, includes bulk fetch by contract + wallet address endpoints. Great for farcaster accounts that have multiple connected wallets. Supports more chains than anyone else and niche apis like 1155 token owners.
+- [Manifold](https://studio.manifold.xyz) - NFT Contracts. All the drop controls, allowing only 5 tokens per wallet, being able to update art managed through manifold studio and deployed on base.
+- [fly](https://fly.io) - Hosting. Deployed with a single box and tons of ram for ondemand image generation. Gives access to a file system to make it easy to cache files without requiring yet another external provider or network apis.
