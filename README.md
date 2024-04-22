@@ -17,7 +17,7 @@ Chapter 5 is an onframe game, the rules are as follows:
 - The artwork revealing the seed phrase is only viewable on Farcaster via a frame. Onchain it is a placeholder image.
 - You may only view others tiles if you follow them.
 
-## Questions of interest
+## Points of interest
 
 ### How do you generate the global progress dynamically with frames?
 
